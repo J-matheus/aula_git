@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/desafios.iml" filepath="$PROJECT_DIR$/.idea/desafios.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/treinogit.iml" filepath="$PROJECT_DIR$/.idea/treinogit.iml" />
+>>>>>>> cbaf30392b4b48282613f3d1ba034757c1ea8c18
     </modules>
   </component>
 </project>
