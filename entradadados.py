@@ -19,4 +19,3 @@ if minuto_resultado <10:
     print(f"Saída: {hora_resultado}:0{minuto_resultado}")
 else:
     print(f"Saída: {hora_resultado}:{minuto_resultado}")
-    
